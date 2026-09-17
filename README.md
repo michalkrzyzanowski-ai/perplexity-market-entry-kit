@@ -55,7 +55,7 @@ Use the [quality checklist](quality-checklist.md) before relying on a recommenda
 
 The same workflow is also packaged as eight custom Skills for Perplexity Computer, with extra outputs: a workflow state file, assumption and data-request registers, an executive deck outline and a decision pack. Start with [START-HERE.md](START-HERE.md). Use either the numbered prompts or the Skills for a run, not both.
 
-The v0.1 ZIP above does not include the Skills. [Download the latest version](https://github.com/michalkrzyzanowski-ai/perplexity-market-entry-kit/archive/refs/heads/main.zip) to get them.
+The v0.1 ZIP above does not include the Skills. [Download v0.2](https://github.com/michalkrzyzanowski-ai/perplexity-market-entry-kit/archive/refs/tags/v0.2.zip) to get them.
 
 ## What is in the kit?
 
