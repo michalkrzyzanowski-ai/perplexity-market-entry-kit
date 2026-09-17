@@ -1,4 +1,9 @@
-# Skill 07 — Export decision pack
+---
+name: market-entry-07-export-decision-pack
+description: "Use at the end of the market-entry decision sprint to package all decision/ artifacts into decision/decision-pack-index.md with their status and verification state. Do not alter source content and do not mark the decision approved."
+---
+
+# Skill 07: Export decision pack
 
 ## Purpose
 

@@ -1,4 +1,9 @@
-# Skill 02 — Plan research
+---
+name: market-entry-02-plan-research
+description: "Use after the participant has confirmed the company context pack to propose a bounded three-workstream market-entry research plan in decision/research-plan.md. Produces a plan only. Do not search the web or run research, and stop for explicit plan approval."
+---
+
+# Skill 02: Plan research
 
 ## Purpose
 
@@ -10,8 +15,8 @@ Propose a bounded, decision-specific research plan. A plan is not authorization 
 - `decision/context-and-gaps.md`
 - `decision/assumptions-and-unknowns.md`
 - `decision/data-request-register.md`
-- Completed decision brief
-- Applicable report template
+- `decision-brief.md` (or your own completed decision brief)
+- `templates/market-entry-report.md`
 
 ## Plan structure
 

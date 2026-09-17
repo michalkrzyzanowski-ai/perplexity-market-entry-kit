@@ -1,4 +1,9 @@
-# Skill 04 — Review evidence
+---
+name: market-entry-04-review-evidence
+description: "Use in a separate, review-only task to check a market-entry draft: open the sources behind the 3 to 5 claims that drive the recommendation and write decision/review-findings.md with verdicts. Do not use in the task that wrote the draft, do not edit the draft, and never mark anything human-verified."
+---
+
+# Skill 04: Review evidence
 
 ## Purpose
 
@@ -8,10 +13,15 @@ Perform a review-only quality check of the decision draft and the 3–5 claims t
 
 - `decision/market-entry-draft.md`
 - `decision/evidence-ledger.md`
-- Completed decision brief
+- `decision-brief.md` (or your own completed decision brief)
 - Company context or `decision/company-context-summary.md`
 - Original cited external sources
-- `templates/review-findings-template.md`, if available
+
+## Run in a separate task
+
+Run this skill in a new task that contains only the inputs above. Do not run it in the task that wrote the draft: the author is the weakest reviewer of its own work. If this conversation produced the draft, stop and ask the participant to start a new review-only task.
+
+A new task is an additional check, not a guarantee of independence from the original model. Human verification is still required.
 
 ## Review method
 

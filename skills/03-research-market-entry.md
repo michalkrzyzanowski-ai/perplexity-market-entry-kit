@@ -1,4 +1,9 @@
-# Skill 03 — Research market entry
+---
+name: market-entry-03-research
+description: "Use only after the participant has explicitly approved decision/research-plan.md. Executes that approved plan and writes decision/evidence-ledger.md and decision/market-entry-draft.md. Do not use to plan, review or approve, and do not start if plan approval is missing."
+---
+
+# Skill 03: Research market entry
 
 ## Purpose
 
@@ -8,9 +13,9 @@ Conduct only the approved research plan and produce an AI-assisted decision draf
 
 - Explicit human approval of `decision/research-plan.md`
 - Company-context files or `decision/company-context-summary.md`
-- Completed decision brief
+- `decision-brief.md` (or your own completed decision brief)
 - `decision/research-plan.md`
-- Applicable report template
+- `templates/market-entry-report.md`
 
 ## Research rules
 
