@@ -51,6 +51,12 @@ Follow the numbered [prompts](prompts.md):
 
 Use the [quality checklist](quality-checklist.md) before relying on a recommendation. The agent never grants final approval.
 
+## Optional: run it as Perplexity Computer Skills
+
+The same workflow is also packaged as eight custom Skills for Perplexity Computer, with extra outputs: a workflow state file, assumption and data-request registers, an executive deck outline and a decision pack. Start with [START-HERE.md](START-HERE.md). Use either the numbered prompts or the Skills for a run, not both.
+
+The v0.1 ZIP above does not include the Skills. [Download the latest version](https://github.com/michalkrzyzanowski-ai/perplexity-market-entry-kit/archive/refs/heads/main.zip) to get them.
+
 ## What is in the kit?
 
 | File | Purpose |
@@ -62,6 +68,11 @@ Use the [quality checklist](quality-checklist.md) before relying on a recommenda
 | [Company-context template](templates/company-context.md) | Adapt the method to your company |
 | [Decision-brief template](templates/decision-brief.md) | Define a different research decision |
 | [Report template](templates/market-entry-report.md) | Executive summary, evidence, fit, and unresolved issues |
+| [Start here](START-HERE.md) | Setup and order for the optional Perplexity Skills workflow |
+| [Skills](skills/) | Eight Perplexity Computer Skills with approval gates, from context to decision pack |
+| [Assumptions and unknowns template](templates/assumptions-and-unknowns-template.md) | Label facts, inputs, goals, assumptions and unknowns |
+| [Data-request register template](templates/data-request-register-template.md) | Track evidence still needed before a commitment |
+| [Executive deck outline template](templates/executive-deck-outline.md) | Eight conclusion-led slides for the decision owner |
 
 ## Important boundaries
 

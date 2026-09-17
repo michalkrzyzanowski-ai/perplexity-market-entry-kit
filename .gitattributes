@@ -1,0 +1,2 @@
+# Keep Markdown files LF on every OS so Perplexity Skill uploads start with a clean "---" line.
+*.md text eol=lf

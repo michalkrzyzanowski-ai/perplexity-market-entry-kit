@@ -1,4 +1,9 @@
-# Skill 00 — Choose context mode
+---
+name: market-entry-00-choose-context-mode
+description: "Use at the very start of a market-entry decision sprint, before any research, to choose how company context will be supplied (file-based, interview-based or hybrid) and record it in decision/workflow-state.md. Do not use for research, planning or recommendations."
+---
+
+# Skill 00: Choose context mode
 
 ## Purpose
 

@@ -1,4 +1,9 @@
-# Skill 06 — Create executive deck
+---
+name: market-entry-06-executive-deck
+description: "Use after the market-entry draft has been reviewed to outline an executive deck of up to 8 conclusion-led slides in decision/executive-deck-outline.md, without adding new claims or numbers. Do not use before review and do not mark the deck approved."
+---
+
+# Skill 06: Create executive deck
 
 ## Purpose
 
@@ -16,7 +21,7 @@ Translate the reviewed decision draft into a concise, visual executive presentat
 
 - Use conclusion-led slide headlines.
 - Use one primary message and one primary visual per slide.
-- Keep the main deck to 6–8 slides.
+- Keep the main deck to 8 slides or fewer; combine slides 2 and 3 if you need a shorter deck.
 - Use details, citations, definitions, and limitations in speaker notes or an appendix.
 - Do not introduce new factual claims, numbers, or recommendations.
 - Label estimates, assumptions, unknowns, and human-review status visibly.

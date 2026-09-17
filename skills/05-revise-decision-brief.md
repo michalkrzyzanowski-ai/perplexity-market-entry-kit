@@ -1,4 +1,9 @@
-# Skill 05 — Revise decision brief
+---
+name: market-entry-05-revise-draft
+description: "Use after reviewer findings exist, from the review-only task or a human reviewer, to revise the market-entry draft issue by issue into decision/revised-decision-brief.md and decision/unresolved-items.md. Do not invent reviewer findings and do not complete human approval."
+---
+
+# Skill 05: Revise decision brief
 
 ## Purpose
 
@@ -10,7 +15,7 @@ Revise the draft only against supplied reviewer findings.
 - `decision/evidence-ledger.md`
 - `decision/review-findings.md` or participant-supplied reviewer findings
 - Company context
-- Completed decision brief
+- `decision-brief.md` (or your own completed decision brief)
 
 ## Revision rules
 

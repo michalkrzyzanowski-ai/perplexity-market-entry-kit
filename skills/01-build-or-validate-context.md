@@ -1,4 +1,9 @@
-# Skill 01 — Build or validate company context
+---
+name: market-entry-01-build-context
+description: "Use after the context mode has been chosen to build or validate the decision-specific company context pack: context summary, gaps, assumptions and unknowns, and data requests. Reads the supplied company files or interviews the participant. Do not search the web and do not recommend an option."
+---
+
+# Skill 01: Build or validate company context
 
 ## Purpose
 
@@ -7,7 +12,7 @@ Create a usable, decision-specific context pack before external research.
 ## Required inputs
 
 - `decision/workflow-state.md`, if it exists
-- File-based or hybrid mode: available company files and the completed decision brief
+- File-based or hybrid mode: available company files and `decision-brief.md` (or your own completed decision brief)
 - Interview-based mode: participant answers
 - `templates/assumptions-and-unknowns-template.md`
 - `templates/data-request-register-template.md`
